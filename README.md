@@ -9,4 +9,4 @@ Get Your Kit Today at [Blinkyparts](https://shop.blinkyparts.com/de/NE555-Kuehls
 A detailed **step-by-step guide** is available in the Wiki and GitHub repository.
 
 ## License
-This project is licensed under **CC-BY-SA 4.0** - Mario Langhammer and Timo Schindler
+This project is licensed under **CC-BY-NC-SA 4.0** - Mario Langhammer and Timo Schindler
